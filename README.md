@@ -27,8 +27,8 @@ Open a terminal and run:
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/kongali1720/leet-hacker-setup.git
-cd leet-hacker-setup
+git clone https://github.com/kongali1720/Leet-Hacker-Setup
+cd Leet-Hacker-Setup
 
 # 2. Make install script executable & run it
 chmod +x install.sh
